@@ -1,5 +1,7 @@
 ### Hello there! 👋
 
+## Formação em Gestão de TI, Pós em Adm. de Banco e Pós em BI & Big Data
+
 <!--
 **rdantasss/rdantasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
