@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-## Formação em Gestão de TI, Pós em Adm. de Banco e Pós em BI & Big Data
+### Atualmente trabalho como Dataviz na Rede Globo <https://github.com/rdantasss/images/blob/6b803cdf68578fea9deb9bfa1ac16dc9a5f88947/globo.png>
 
 <!--
 **rdantasss/rdantasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
