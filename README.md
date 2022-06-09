@@ -7,7 +7,7 @@ Atualmente trabalho como Dataviz na Rede Globo, utilizando Power BI e Data Studi
 <code><img height="20" src="https://github.com/rdantasss/images/blob/9600da842d2e43e3c87a3edfcf0e4fb19cc2b052/oracle.png"></code> <code><img height="20" src="https://github.com/rdantasss/images/blob/599fd091c8b35f8cdf900a33d8579e9bce7f8bd2/power%20bi.png"></code> <code><img height="20" src="https://github.com/rdantasss/images/blob/579a95e8f03c4bed3f6c89991d6885cd1faddc53/Studio.png"></code>
 
 
-#### Portifólio SQL/PL SQL
+### Portifólio SQL/PL SQL
 <!--
 **rdantasss/rdantasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
