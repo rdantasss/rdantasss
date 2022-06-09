@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-Atualmente trabalho como Dataviz na Rede Globo, utilizando Power BI, Data Stdio no ambiente GCP.
+Atualmente trabalho como Dataviz na Rede Globo, utilizando Power BI e Data Studio no ambiente GCP.
 
 
 ### Ferramentas 
